@@ -31,7 +31,7 @@ This included:
 
 - Verifying and correcting data types  
 - Cleaning text fields  
-- Creating a final curated table (gold table) to use as a single source of truth  
+- Creating a final curated table to use as a single source of truth  
 
 All KPIs, pivot tables, and visualizations are built from this final table.
 
